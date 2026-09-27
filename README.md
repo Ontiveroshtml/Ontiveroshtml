@@ -1,3 +1,4 @@
+<!-- Divisor de gradiente superior -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
@@ -24,8 +25,6 @@
 
 <br />
 
-<br />
-
 <h3 align="center">🛠️ Technologies That I Use</h3>
 
 <p align="center">
@@ -38,17 +37,19 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
+<!-- Stats Generales y Racha de Commits -->
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=1010nishant&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ontiveroshtml&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ontiveroshtml&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=true&no-bg=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ontiveroshtml&theme=dark&hide_border=true&no-bg=true&layout=compact" alt="Top Languages" />
 </p>
 
 <br />
 
+<!-- Redes Sociales / Contacto rápido -->
 <p align="center">
   <a href="mailto:ing.luisweb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
@@ -60,10 +61,12 @@
 
 <br />
 
+<!-- Profile Visitor Counter (Komarev) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1010nishant&color=blueviolet&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=ontiveroshtml&color=blueviolet&style=flat-square" alt="Visitor Counter" />
 </p>
 
+<!-- Divisor de gradiente inferior -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
